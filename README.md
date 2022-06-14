@@ -1,3 +1,16 @@
+
+## IMPORTANTE ##
+Códigos da playlist bônus sobre NextJS até a aula 6 sobre SSR (Server-Side Rendering).
+
+O código está com algumas adaptações que se fizeram necessárias para rodar certinho.
+
+Foi substituído a chamada a API pelo comando FETCH!
+
+Good Luck!
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
